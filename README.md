@@ -15,10 +15,9 @@ The input for the final model consists of fixed-size 64 × 64 RGB images. Each d
 
 
 ## Results
+<img src="./Results/fer_ds.png" alt="fer_ds" width="400" height="400"/>
 <img src="./Results/raf_ds.png" alt="raf_ds" width="400" height="400"/>
-![](./Results/raf_ds.png)
-![](./Results/fer_ds.png)
-![](./Results/ck+_ds.png)
+<img src="./Results/ck+_ds.png" alt="ck+_ds" width="400" height="400"/>
 
 
 
