@@ -39,7 +39,7 @@ Grad-CAM, which stands for Gradient-weighted Class Activation Mapping, is an Exp
 
 ## Demo
 <p align="center">
-  <img src="./Video/demo.gif" width="400" />
+  <img src="./Video/cam_eval_video-gif.gif" width="400" />
 </p>
 
 
