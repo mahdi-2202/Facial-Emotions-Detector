@@ -13,6 +13,11 @@ The input for the final model consists of fixed-size 64 × 64 RGB images. Each d
 
 
 
+##Codes
+![](./Codes/EmotionsDetector_002.ipynb)
+
+
+
 
 ## Results
 <img src="./Results/fer_ds.png" alt="fer_ds" width="400" height="400"/>
