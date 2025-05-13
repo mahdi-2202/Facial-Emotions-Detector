@@ -14,8 +14,7 @@ The input for the final model consists of fixed-size 64 × 64 RGB images. Each d
 
 
 ## Codes
-![](./Codes/EmotionsDetector_002.ipynb)
-
+available in Codes section
 
 
 
