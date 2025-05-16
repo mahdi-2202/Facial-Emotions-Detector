@@ -1,4 +1,4 @@
-# Facial-Emotions-Detector
+# Facial-Emotions-Detector (Uni Software Entwicklung Praktikum)
 detection and classification Emotions on the face
 ## Abstract
 This work presents a Convolutional Neural Network (CNN) model for facial emotion classification using deep learning techniques. Leveraging a diverse dataset of annotated facial images, the proposed model demonstrates effective recognition of emotions including happiness, sadness, anger, surprise, fear, and disgust. Through experimentation and optimization, the model showcases promising performance metrics, suggesting its potential application in affective computing, human-computer interaction, and sentiment analysis domains.
